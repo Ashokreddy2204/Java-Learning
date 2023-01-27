@@ -1,0 +1,1 @@
+git is a version controlling system. It has 4 stages . They are working,staging,locsl repo,remote repo.
